@@ -9,7 +9,7 @@ if %errorlevel% == 0 (
     exit
 )
 
-set "basePath=C:\Users\e087037\Desktop"
+set "basePath=C:\Users\YOURUSERNAME\Desktop"
 
 start control printers
 echo Welcome to Jared's Printer installer!
